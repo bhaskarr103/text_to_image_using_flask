@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+langchain
+huggingface_hub
+werkzeug
+langchain_community
